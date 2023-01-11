@@ -1,0 +1,7 @@
+{
+    "conpilerOptions" : {
+        "module": "NodeNext",
+        "moduleResolution" : "Node",
+        ""
+    }
+}
